@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "127424822752",
+    "project_id": "license-training",
+    "storage_bucket": "license-training.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127424822752:android:31bb2aed8619a31241bf85",
+        "android_client_info": {
+          "package_name": "com.example.licensetrainining"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTgi6h5jkY9fiP56NBr3BOP26zz2OutSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
