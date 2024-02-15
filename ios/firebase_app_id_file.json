@@ -1,7 +1,7 @@
 {
   "file_generated_by": "FlutterFire CLI",
   "purpose": "FirebaseAppID & ProjectID for this Firebase app in this directory",
-  "GOOGLE_APP_ID": "1:562117995723:ios:cef99aa1233995d155bf4e",
-  "FIREBASE_PROJECT_ID": "licensetraning",
-  "GCM_SENDER_ID": "562117995723"
+  "GOOGLE_APP_ID": "1:737189062779:ios:6b97132866755c29969ade",
+  "FIREBASE_PROJECT_ID": "license-training-v1",
+  "GCM_SENDER_ID": "737189062779"
 }

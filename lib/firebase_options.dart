@@ -44,38 +44,37 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCu4alKylFVwEnYYRn9i-7KG4j89iD8UQc',
-    appId: '1:562117995723:web:7fcb153876797fdb55bf4e',
-    messagingSenderId: '562117995723',
-    projectId: 'licensetraning',
-    authDomain: 'licensetraning.firebaseapp.com',
-    storageBucket: 'licensetraning.appspot.com',
-    measurementId: 'G-ZY27WCTN38',
+    apiKey: 'AIzaSyC_cEr4edWPV6NrpJg_p4NYjK1JhNapEzg',
+    appId: '1:737189062779:web:8b372cc5880d7955969ade',
+    messagingSenderId: '737189062779',
+    projectId: 'license-training-v1',
+    authDomain: 'license-training-v1.firebaseapp.com',
+    storageBucket: 'license-training-v1.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyApwpG6voXpEzxHbRyFTBOdWxePAgWAr3Y',
-    appId: '1:562117995723:android:0983d647411a38e255bf4e',
-    messagingSenderId: '562117995723',
-    projectId: 'licensetraning',
-    storageBucket: 'licensetraning.appspot.com',
+    apiKey: 'AIzaSyAZr7UqFqs6PHXcqk9QiCPvGGI2bgM6mq0',
+    appId: '1:737189062779:android:615cd58bee171a27969ade',
+    messagingSenderId: '737189062779',
+    projectId: 'license-training-v1',
+    storageBucket: 'license-training-v1.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAm122ucNxNCnZaIJE4EYNnx9GZNHWl7BA',
-    appId: '1:562117995723:ios:cef99aa1233995d155bf4e',
-    messagingSenderId: '562117995723',
-    projectId: 'licensetraning',
-    storageBucket: 'licensetraning.appspot.com',
+    apiKey: 'AIzaSyAKsZfGhztxG7VIe6ELAFvz1hLjedrtZgc',
+    appId: '1:737189062779:ios:6b97132866755c29969ade',
+    messagingSenderId: '737189062779',
+    projectId: 'license-training-v1',
+    storageBucket: 'license-training-v1.appspot.com',
     iosBundleId: 'com.example.licensetrainining',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAm122ucNxNCnZaIJE4EYNnx9GZNHWl7BA',
-    appId: '1:562117995723:ios:7967cc7a304c29f555bf4e',
-    messagingSenderId: '562117995723',
-    projectId: 'licensetraning',
-    storageBucket: 'licensetraning.appspot.com',
+    apiKey: 'AIzaSyAKsZfGhztxG7VIe6ELAFvz1hLjedrtZgc',
+    appId: '1:737189062779:ios:459b263a82fbd3be969ade',
+    messagingSenderId: '737189062779',
+    projectId: 'license-training-v1',
+    storageBucket: 'license-training-v1.appspot.com',
     iosBundleId: 'com.example.licensetrainining.RunnerTests',
   );
 }
